@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 -->
 ### Some of My work
 1. [Uber Clone](https://uber-clone-79djlngh5-kunaaal13.vercel.app/Login)
-2. [Password Check](https://passcheck.netlify.app/)
-3. [CryptoMon](https://addons.mozilla.org/en-US/firefox/addon/crypto-monitor/)
-4. [Hashnode Blog](https://blacviking.hashnode.dev/)
-5. [Hulu Clone](https://hulu-clone-build.vercel.app/)
-6. [Amazon Clone](https://amazon-clone-nine-tan.vercel.app/)
-7. [Airbnb Clone](https://airbnb-clone-one-rho-40.vercel.app/)
+2. [Airbnb clone](https://airbnb-2-0-44ro7m2a3-kunni.vercel.app/)
+3. [Hulu Clone](https://hulu-clone-kunni.vercel.app/)
+4. [Google Clone](https://google-clone-kunaaal-22bvakxgi-kunni.vercel.app/)
+5. [Amazon clone](https://amazon-clone-next-kunni.vercel.app/)
+6. [Tesla clone](https://tesla-clone-kunni.vercel.app/)
+
 
 ### Languages and Tools
 <span>
