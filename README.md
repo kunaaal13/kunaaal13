@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-<h3 align="center"> My name is Abhishek, a front-end developer who loves hacking </h3>
+<h3 align="center"> My name is Kunal, a front-end developer</h3>
 
 
 ### Somethings you might notice about me
 
-I really love **web development and hacking**. :smile:
+I really love **web development**. :smile:
 
 Currently working on Multiple web development projects 🔭
 
