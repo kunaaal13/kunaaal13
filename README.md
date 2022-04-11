@@ -7,7 +7,7 @@
 
 I really love **web development**. :smile:
 
-Currently working on Multiple web development projects 🔭
+Currently working on web development projects 🔭
 
 Really like playing CTFs, web challenges are my favorite :computer:
 
