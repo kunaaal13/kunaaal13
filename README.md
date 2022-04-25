@@ -28,11 +28,14 @@ Here are some ideas to get you started:
 -->
 ### Some of My work
 1. [Uber Clone](https://uber-clone-79djlngh5-kunaaal13.vercel.app/Login)
-2. [Airbnb clone](https://airbnb-2-0-44ro7m2a3-kunni.vercel.app/)
-3. [Hulu Clone](https://hulu-clone-kunni.vercel.app/)
-4. [Google Clone](https://google-clone-kunaaal-22bvakxgi-kunni.vercel.app/)
-5. [Amazon clone](https://amazon-clone-next-kunni.vercel.app/)
-6. [Tesla clone](https://tesla-clone-kunni.vercel.app/)
+2. [Disney Plus Clone](https://disney-plus-next.vercel.app/login)
+3. [Netflix Clone](https://netflix-clone-kunni.vercel.app/login)
+4. [Airbnb Clone](https://airbnb-2-0-44ro7m2a3-kunni.vercel.app/)
+5. [Hulu Clone](https://hulu-clone-kunni.vercel.app/)
+6. [Google Clone](https://google-clone-kunaaal-22bvakxgi-kunni.vercel.app/)
+7. [Amazon Clone](https://amazon-clone-next-kunni.vercel.app/)
+8. [Tesla Clone](https://tesla-clone-kunni.vercel.app/)
+ 
 
 
 ### Languages and Tools
