@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-<h3 align="center"> My name is Kunal, a front-end developer</h3>
+<h3 align="center"> My name is Kunal, a full-stack developer</h3>
 
 
 ### Somethings you might notice about me
