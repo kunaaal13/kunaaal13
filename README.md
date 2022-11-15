@@ -9,7 +9,7 @@ I've found a passion for javascript.
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [Devfolio](http://kunaaal13.vercel.app/)
 * ✉️  You can contact me at [mrkunalyadav7@gmail.com](mailto:mrkunalyadav7@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Typescript
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I'm secretly from Asgard, but don't tell anyone.
 
