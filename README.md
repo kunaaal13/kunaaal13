@@ -67,6 +67,8 @@ I've found a passion for javascript.
 
 <a href="http://www.github.com/kunaaal13"><img src="https://activity-graph.herokuapp.com/graph?username=kunaaal13&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kunaaal13&bg_color=000000&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/kunaaal13"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
