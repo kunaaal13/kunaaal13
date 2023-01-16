@@ -6,7 +6,7 @@ Full stack web developer
 
 I've found a passion for javascript.
 
-* 🌍  I'm based in New Delhi, India
+* 🌍  I'm based in New Delhi, India.
 * 🖥️  See my portfolio at [Devfolio](http://kunaaal13.vercel.app/)
 * ✉️  You can contact me at [mrkunalyadav7@gmail.com](mailto:mrkunalyadav7@gmail.com)
 * 🧠  I'm learning Typescript.
