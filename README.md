@@ -67,7 +67,3 @@ I've found a passion for javascript.
 
 <a href="http://www.github.com/kunaaal13"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kunaaal13&bg_color=000000&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="commit graph" />
 </a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/kunaaal13"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
