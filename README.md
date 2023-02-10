@@ -47,7 +47,7 @@ I've found a passion for javascript.
 
 
 ### Some of My work
-1. [Youtube-redesign](https://kunnii-yt.vercel.app/)
+1. [Youtube-redesign](https://kunnii-project1.vercel.app/)
 2. [Uber Clone](https://uber-clone-79djlngh5-kunaaal13.vercel.app/Login)
 3. [Apple Redesign](https://apple-redesign-2-0.vercel.app/)
 4. [Disney Plus Clone](https://disney-plus-next.vercel.app/login)
