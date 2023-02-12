@@ -4,7 +4,7 @@ Hi 👋 My name is Kunaaal
 Full stack web developer
 ------------------------
 
-I've found a passion for javascript.
+I've found a passion for Web.
 
 * 🌍  I'm based in New Delhi, India.
 * 🖥️  See my portfolio at [Devfolio](http://kunaaal13.vercel.app/)
