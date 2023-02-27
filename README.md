@@ -54,9 +54,7 @@ I've found a passion for Web.
 5. [Netflix Clone](https://netflix-clone-kunni.vercel.app/login)
 6. [Airbnb Clone](https://airbnb-2-0-44ro7m2a3-kunni.vercel.app/)
 7. [Hulu Clone](https://hulu-clone-kunni.vercel.app/)
-8. [Google Clone](https://google-clone-kunaaal-22bvakxgi-kunni.vercel.app/)
-9. [Amazon Clone](https://amazon-clone-next-kunni.vercel.app/)
-10. [Tesla Clone](https://tesla-clone-kunni.vercel.app/)
+8. [Tesla Clone](https://tesla-clone-kunni.vercel.app/)
 
 
 ### Badges
