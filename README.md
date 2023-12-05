@@ -11,7 +11,7 @@ I've found a passion for Web.
 * ✉️  You can contact me at [mrkunalyadav7@gmail.com](mailto:mrkunalyadav7@gmail.com)
 * 🧠  Busy building cool shit
 * 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I'm secretly from Asgard, but don't tell anyone.
+* ⚡  I'm a fast learner and a god.
 
 ### Skills
 
