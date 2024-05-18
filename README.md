@@ -1,17 +1,10 @@
-Hi 👋 My name is Kunaaal
-========================
+## Hi 👋, I'm Kunaaal
 
-Full stack web developer
-------------------------
+### About Me:
 
-I've found a passion for Web.
-
-* 🌍  I'm based in New Delhi, India.
-* 🖥️  See my portfolio at [Devfolio](http://kunaaal13.vercel.app/)
-* ✉️  You can contact me at [mrkunalyadav7@gmail.com](mailto:mrkunalyadav7@gmail.com)
-* 🧠  Busy building cool shit
-* 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I'm a fast learner and a god (Loki).
+- ✨ &nbsp;I'm a Full Stack Developer
+- 🌍 &nbsp;I'm based in New Delhi, India.
+- 💻 &nbsp;I love crafting seamless software experiences.
 
 ### Skills
 
@@ -43,25 +36,3 @@ I've found a passion for Web.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kunaaal13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://kunaaal13.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kunalyadav1308" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kunaaal13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-
-
-### Some of My work
-1. [Youtube-redesign](https://kunnii-project1.vercel.app/)
-2. [Uber Clone](https://uber-clone-79djlngh5-kunaaal13.vercel.app/Login)
-3. [Apple Redesign](https://apple-redesign-2-0.vercel.app/)
-4. [Disney Plus Clone](https://disney-plus-next.vercel.app/login)
-5. [Netflix Clone](https://netflix-clone-kunni.vercel.app/login)
-6. [Airbnb Clone](https://airbnb-2-0-44ro7m2a3-kunni.vercel.app/)
-7. [Hulu Clone](https://hulu-clone-kunni.vercel.app/)
-8. [Tesla Clone](https://tesla-clone-kunni.vercel.app/)
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kunaaal13"><img src="https://github-readme-stats.vercel.app/api?username=kunaaal13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kunaaal13's GitHub stats" /></a>
-
-<a href="http://www.github.com/kunaaal13"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kunaaal13&bg_color=000000&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="commit graph" />
-</a>
