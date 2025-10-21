@@ -1,6 +1,13 @@
 # Hi 👋, I'm Kunaaal
 
-I'm a Full Stack Developer based in New Delhi, India. I love crafting seamless software experiences.
+<br/>
+
+### About
+
+- A Full stack developer based in New Delhi, India 🇮🇳.
+- Building things that people actually love and use.
+
+<br />
 
 ### 💻 Tech Stack
 
@@ -16,7 +23,7 @@ I'm a Full Stack Developer based in New Delhi, India. I love crafting seamless s
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,astro" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,astro,vite" />
   </a>
 </p>
 
@@ -24,7 +31,7 @@ I'm a Full Stack Developer based in New Delhi, India. I love crafting seamless s
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,express,fastapi" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" />
   </a>
 </p>
 
