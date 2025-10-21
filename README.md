@@ -1,13 +1,9 @@
 # Hi 👋, I'm Kunaaal
 
-<br/>
-
 ### About
 
 - A Full stack developer based in New Delhi, India 🇮🇳.
 - Building things that people actually love and use.
-
-<br />
 
 ### 💻 Tech Stack
 
@@ -15,7 +11,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,python,html" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python" />
   </a>
 </p>
 
